@@ -1,6 +1,3 @@
-from re import S
-
-
 class ListNode(object):
     def __init__(self, val: int = 0, next: "ListNode" = None) -> None:
         self.val = val
@@ -9,6 +6,7 @@ class ListNode(object):
 
 class SinglyLinkedList(object):
     def __init__(self):
+        # dummy head node.
         self.head_ = ListNode()
         self.tail_ = self.head_
         self.size_ = 0
