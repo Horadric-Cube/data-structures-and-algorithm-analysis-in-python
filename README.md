@@ -1,12 +1,11 @@
 # data-structures-and-algorithm-analysis-in-python
 data-structures-and-algorithm-analysis-in-python
 
+
 ## Data Structures
 
+
 ### List
-
-#### Array List
-
 
 #### Linked List
 
